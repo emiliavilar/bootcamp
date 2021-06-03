@@ -17,5 +17,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o bootcamp DIO - Santander - by: Emilia Vilar
+  description: Projeto criado para o bootcamp DIO - Santander - Emilia Vilar
   version: 1.0
